@@ -1,0 +1,9 @@
+{
+    "name": "ToDO",
+    "version": "1.0",
+    "description":"ToDo List everyday",
+    "browser_action":{
+        "default_popup":"index.html"
+    },
+    "manifest_version":2
+}
